@@ -73,8 +73,13 @@ To deploy:
 ## 📊 Scientific Performance
 
 Our deployed GATv2 model was validated on over 1,200 simulated cascading failure scenarios:
-* **Heuristic Baseline Error:** 8.4%
-* **Standard GCN Error:** 5.1%
-* **GATv2 (Ours) Error:** 3.1% (A **63% improvement** over baseline rules)
+Heuristic Baseline (Rule-Based): 8.4% Error
+
+Graph Convolutional Network (GCN): 5.1% Error
+→ 39% improvement over traditional rule-based methods.
+
+Graph Attention Network v2 (GATv2): 3.1% Error
+→ 63% improvement over the baseline.
+→ 39% improvement over standard graph neural networks.
 
 Because GATv2 learns *route importance* rather than treating all connections equally, it successfully identifies network bottlenecks that other models miss.
