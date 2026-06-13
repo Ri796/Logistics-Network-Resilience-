@@ -1,0 +1,20 @@
+# Streamlit Secrets (DO NOT COMMIT API KEYS!)
+.streamlit/secrets.toml
+
+# Python Caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
