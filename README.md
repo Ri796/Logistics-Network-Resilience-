@@ -16,6 +16,9 @@ This project was designed to move beyond traditional rule-based logistics tracki
 
 ---
 
+<img width="1916" height="922" alt="image" src="https://github.com/user-attachments/assets/02dcb5d2-c85c-4855-87d4-ace3fab4930e" />
+
+
 ## 🛠️ Technology Stack
 
 * **Deep Learning**: PyTorch, PyTorch Geometric (GATv2)
